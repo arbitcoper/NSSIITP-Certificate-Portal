@@ -47,7 +47,7 @@ export default function Home() {
         <img src="/nss_logo.png" alt="NSS Logo" className="nss-logo" />
         <div>
           <h1 className="site-title">NSS IIT Patna</h1>
-          <p className="site-sub">Empowering Minds, Enriching Lives · Certificate Portal</p>
+          <p className="site-sub">Not Me, But You · Certificate Portal</p>
         </div>
       </header>
 
@@ -60,7 +60,7 @@ export default function Home() {
       {view === "error" && (
         <div className="error-card" role="alert">
           <span className="error-icon" aria-hidden="true">⚠️</span>
-          <h2>Participant Not Found</h2>
+          <h2>Volunteer Not Found</h2>
           <p>{error}</p>
           <button className="btn btn-secondary" onClick={reset}>
             ← Try Again
@@ -76,13 +76,13 @@ export default function Home() {
       {/* footer */}
       <footer style={{
         marginTop: "auto",
-        fontSize: "0.72rem",
-        color: "rgba(232,201,122,0.3)",
-        letterSpacing: "0.06em",
+        fontSize: "0.75rem",
+        color: "var(--text-muted)",
+        letterSpacing: "0.05em",
         textAlign: "center",
-        paddingTop: "1rem",
+        paddingTop: "1.5rem",
       }}>
-        © 2025 NSS IIT Patna &nbsp;|&nbsp; All Rights Reserved
+        © NSS IIT Patna &nbsp;|&nbsp; All Rights Reserved
       </footer>
     </main>
   );

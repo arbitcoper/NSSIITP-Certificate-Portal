@@ -1,8 +1,375 @@
 RollNo, Name
-2301CS01, Abhiraj
-2301CS02, Abhiraj Abhiraj
-2301CS03, Abhiraj Abhiraj Abhiraj
-2301CS04, Abhiraj Abhiraj Abhiraj Abhiraj
-2301CS05, Abhiraj Abhiraj Abhiraj Abhiraj Abhiraj
-2301CS06, Abhiraj Abhiraj Abhiraj Abhiraj Abhiraj Abhiraj
-2301CS07, Abhiraj Abhiraj Abhiraj Abhiraj Abhiraj Abhiraj Abhiraj
+2501AI03, Adarsh Jha
+2501AI05, Anubhav Kumar
+2501AI06, Nandini
+2501AI07, Anand Badavath
+2501AI08, Vignesh
+2501AI11, Ansh Sharma
+2501AI12, Soumya Pathak
+2501AI14, Tejas Mittal
+2501AI15, Pendyala Goutham
+2501AI19, Meduri Nishanth
+2501AI20, Krishna Bansal
+2501AI21, Aahan Nayak
+2501AI22, Riya Raj
+2501AI23, Utkarsh Ranjan
+2501AI24, Kanisha Jain
+2501AI26, Vineet Arora
+2501AI27, Avni Agarwal
+2501AI32, Samriddhi
+2501AI33, Kuchipudi Preethi Prasastha
+2501AI35, Ajitesh Irij
+2501AI39, Katta Vishal Reddy
+2501AI40, Adarsh Das
+2501AI41, Kasina Sandilya Sruthi
+2501AI42, BELLI ABHINANDHAN GOUD
+2501AI44, Srinath kalvala
+2501AI46, Aman Raj
+2501AI47, Piyush kumar
+2501AI49, Yashashwani dixit
+2501CB01, J Samrutha
+2501CB02, Priyanshi Patel
+2501CB05, Kajal Batra
+2501CB07, Jarpula murali
+2501CB08, Manav Rathore
+2501CB09, Saptarshi Bose
+2501CB12, Pushpendra sharma
+2501CB13, Abhinav B
+2501CB18, Vansh khurana
+2501CB19, Dhruv Agnihotri
+2501CB20, Oshi Malviya
+2501CB21, Nasreen Fatima
+2501CB25, Vaanya Verma
+2501CB29, Kavya Gupta
+2501CB30, Swarnava Kundu
+2501CB32, Biki Barman
+2501CB36, Vadavelli Kamali Harshitha
+2501CB37, Anupam sharma
+2501CB39, AMAN SAROJ
+2501CB42, Ahan Bhattacharjee
+2501CB44, Sakala Sathwik
+2501CB45, Sri vaishnavi
+2501CB47, Hariom Singh
+2501CB48, MADA AKEERA SRI VARSHAN
+2501CB50, Raushan kumar
+2501CB51, Boyina Sadvika
+2501CB54, Riddhi Patel
+2501CB55, Sachin
+2501CB58, Adwait Vats
+2501CB60, Mayank Biswas
+2501CB61, Satish kumar yadav
+2501CB62, Anshu vishwakarma
+2501CB63, Taniya kumari gupta
+2501CB65, Vadithya upendar
+2501CE03, Mehul Tushar Parmar
+2501CE05, Parul
+2501CE06, Tanmoy Pradhan
+2501CE09, Dhruvi Sharma
+2501CE10, Rupansh Dawer
+2501CE15, Sonu Kumar
+2501CE16, Aditya Mishra
+2501CE17, Pranav Mishra
+2501CE18, Chhitij Meena
+2501CE19, Saanvi Priyadarshini Rahash Muduli
+2501CE21, Chetla Pawan Kumar
+2501CE22, TAPARSHI DAS
+2501CE23, Rahul Kumar
+2501CE26, Rahul
+2501CE31, Harshit kumar
+2501CE32, Ravi Ranjan kumar
+2501CE33, Kole Pranitha
+2501CE34, Parmar Kashyap
+2501CE36, Satwika Sah
+2501CE39, Utkarsh Rao
+2501CE41, Tanish garg
+2501CE43, Kartan Anish Kumar
+2501CE45, Manan Choudhary
+2501CE46, Kasle Janhavi Santosh
+2501CE47, Saurabh
+2501CE49, Rakshita
+2501CE53, Anamika dangi
+2501CE54, Krish Prakash
+2501CE56, Shailendra Meena
+2501CE58, Raunak Jha
+2501CE68, BANAVATH RAMAKRISHNA NAIK
+2501CS01, Peruru Snigdha Reddy
+2501CS03, choudavarapu snehan
+2501CS12, Manish Sharma
+2501CS15, Chitra Sandilya
+2501CS18, Sabavath Aishwarya Chouhan
+2501CS20, Ayush Anand
+2501CS22, Vijayanagaram Sreethi
+2501CS23, Suzal
+2501CS28, Gunturu Srikanth
+2501CS29, Pola Hymavathi
+2501CS31, J Sathwik Kumar
+2501CS32, Anushtup Kumar
+2501CS33, Sahasra G
+2501CS34, Anushka Nayak
+2501CS35, Rajiv Kumar Karn
+2501CS36, Abhirup Dhara
+2501CS37, Akshay Kulkarni
+2501CS38, Udaya Sree Jakkula
+2501CS39, Harshil Chukkala
+2501CS40, Anuj Omprakash Pupalwad
+2501CS41, Mekala uday kiran
+2501CS43, Kasireddy Sri Charan
+2501CS44, Aryan Kumar
+2501CS50, Varun Tej Reddy Chinthareddy
+2501CS51, Ojasvee vatsa
+2501CS52, Aman Gautam
+2501CS54, Gade.chandan
+2501CS60, Kunal Raj
+2501CS62, Shivam Kumar
+2501CS63, Neeradi Thanmai
+2501CS64, Ravi Raj Prasad
+2501CS69, Amit Ahirrao
+2501CS70, KIMIDI PARDHIV
+2501CS71, Vishesh Agrawal
+2501CS77, KATRAVATH VINOD
+2501CS80, Mohit Kumar
+2501CS81, Shivank maan
+2501CS84, Goutam Kumar Ghosal
+2501CS87, Kuldeep Kumar Roy
+2501CS88, Lutta Ananya
+2501CT03, Siddharth Kashyap
+2501CT04, Ankush Raj
+2501CT06, Satyam Kumar
+2501CT09, Guda Manaswini
+2501CT10, Mahi Dinesh Borkar
+2501CT13, Mayank Fulara
+2501CT14, Dhruviben Patel
+2501CT15, Sundram Kumar
+2501CT18, Dhriti Singh
+2501CT21, Manak Ram
+2501CT22, Kesanapalli Sanjana
+2501CT27, Parth Shudeep Bilaye
+2501CT30, Mitesh Tak
+2501CT33, Tangella Rakesh Reddy
+2501CT35, Neeraj Kumar Meena
+2501CT36, Saksham Kori
+2501CT37, Disha Satish Togarwad
+2501CT38, Bhukya Archana
+2501EC02, SAMEER KUMAR
+2501EC04, Saurabh Negi
+2501EC05, Rishabh Pandey
+2501EC07, Harshil Jain
+2501EC10, MOHAMMAD AMAAN
+2501EC12, Jonnalagadda Akshitha
+2501EC13, Alok Sharma
+2501EC14, Anshika
+2501EC21, Malothu Divya
+2501EC23, Ayanambakam Poojitha
+2501EC24, Pardeep Dahiya
+2501EC25, Mahendra seervi
+2501EC26, Prakhar Kumar
+2501EC29, Himanshi Maheshwari
+2501EC30, Gouda Sreeshanth
+2501EC31, Navadeep
+2501EC32, Challa Sowmya Reddy
+2501EC33, Prince Agrawal
+2501EC34, Drishtaant Roy
+2501EC38, Ponnana Likitha
+2501EC40, Dhruv nagar
+2501EC43, Risita Bharti
+2501EC46, Akarshan kumar yadav
+2501EC47, Palak banshiwal
+2501EC48, Anmol Gupta
+2501EC49, Guguloth Akhil
+2501EE01, Ashutosh kumar
+2501EE03, Aditya pravin Gadewar
+2501EE04, Sourav Mondal
+2501EE06, Mahi Garg
+2501EE09, Kavyansh Gupta
+2501EE13, Upam Kumar
+2501EE14, Kirti Nandan
+2501EE15, Ramavath Mukesh
+2501EE16, Souranil patra
+2501EE18, Het Jayesh Patel
+2501EE19, Tejas Pokale
+2501EE20, Alvin Kuriakose
+2501EE21, Akash Bairwa
+2501EE22, Tanmay Wankhade
+2501EE23, RENTALA RAJESH
+2501EE25, Purma Keerthana
+2501EE27, Lavudya Akshaya
+2501EE35, Ankit Raj
+2501EE36, Ojas Sakharkar
+2501EE37, Riddhima Bharti
+2501EE40, Himanshu Verma
+2501EE43, Suhaas sanshi
+2501EE45, Rohit Raj
+2501ES02, Shivam Agarwal
+2501ES05, Ankush Senapati
+2501ES07, Sudhanshu Bajpai
+2501ES14, Kanishk Manral
+2501ES20, RUSHAN RAZA
+2501ES22, Divya choudhary
+2501MC01, Addicharla Sumanth Rahul
+2501MC11, Chaitanya Singh Chauhan
+2501MC12, Sarvesh Malpani
+2501MC13, Kanika Nath
+2501MC18, Vanam shashi haran ram
+2501MC20, B.Harshini Reddy
+2501MC21, Srushti Kawdewar
+2501MC24, Shubhanshu Kumar
+2501MC26, Manisha kumari
+2501MC30, Aditi Yadav
+2501MC34, pratyaksh kumar
+2501MC38, MADDINENI SANDEEP
+2501MC41, Tanvi Mishra
+2501MC45, Raipelly shivakumar
+2501MC46, Krishna Sharma
+2501MC47, Krishna Kanaujiya
+2501ME01, Mahi garg
+2501ME05, Akshay Pratap Singh
+2501ME09, Pranav Kumar
+2501ME14, Kodati Yogitha
+2501ME15, Deveshwar Jha
+2501ME16, Abhishek Dwivedi
+2501ME19, Anurag Patel
+2501ME22, Aditya Raj
+2501ME23, Tharun siva balaji.N
+2501ME25, Allu Bharath Kumar
+2501ME27, Arit Raj
+2501ME35, MANAS DUBEY
+2501ME38, Sunayana Patra
+2501ME40, Moon Srivastava
+2501ME41, CHIRAG
+2501ME42, Battula Sreeja
+2501ME43, T.Rohith reddy
+2501ME47, Kommineni Ganesh
+2501ME48, Yuktartha
+2501ME50, Hrishikesh Madhekar
+2501ME51, Sneha Raj
+2501ME52, Mansi
+2501ME53, Prity Kumari
+2501ME54, Vandana jayanth
+2501ME55, Ankit Raj Choudhary
+2501ME56, Shikhar
+2501ME58, Surakshi Pal
+2501ME61, Neeraj kumar
+2501ME62, Kumar Lakshya Sahoo
+2501ME63, Anirban Dutta
+2501ME64, RATHOD DHEERAJ
+2501ME65, Durgesh raj
+2501ME66, Manasi S
+2501ME68, K.Anirudh Reddy
+2501ME69, Yashi Chandra
+2501ME70, Vishal chopra
+2501ME74, Siva Krishna
+2501ME75, Athmakuru Bharadwaj reddy
+2501ME76, Tejomurtula Sai Rama Krishna
+2501ME79, M U Sri Varaha Manikanteswari
+2501ME83, Rachapally Pradeep
+2501MM02, Parijat Ghosh
+2501MM04, Anshika Sharma
+2501MM05, Sakshi Lata Kumari
+2501MM06, M Sai Sujan Reddy
+2501MM10, Divyansh kaushik
+2501MM11, Susankit Kumar Jha
+2501MM12, Subhash Pandey
+2501MM15, Rakesh Naik
+2501MM16, A .Mahendra babu
+2501MM18, Ritika Verma
+2501MM19, Ayush garg
+2501MM20, Mohak Rasik Dave
+2501MM21, Ojal Tembhurne
+2501MM22, Nani Ravvala
+2501MM24, Pachava Shalini
+2501MM25, Dhanush.U.V
+2501MM28, Keshav Prabhat Maharaj
+2501MM31, Soni pal
+2501MM33, Manda Ashrith Narayana
+2501MM36, Anubhav Ranjan Singh
+2501MM38, Laveti Sai Deepak
+2501MM40, Bhaskar Gangopadhyay
+2501MM41, Lakshya Tiwari
+2501MM43, Eslavath Likhitha
+2501PH02, Shreyas Waikar
+2501PH03, ARITRO GHOSH
+2501PH07, Chenche Shankara Suman
+2501PH10, Ronak Jakhar
+2501PH12, Varkatam Akshaya
+2501PH13, AKSHARA KARRI
+2501PH14, Snehardra Das
+2501PH16, Shaik jabeersulthan
+2501PH19, ANIRUDH KARTHIKEYAN
+2501PH21, Marlon Gamit Maheshbhai
+2501PH27, Yogesh kumar
+2501PH30, Sara Khan
+2501PH31, MADDIRALA BHANU KIRAN
+2501PH32, Kashvi Mehta
+2501PH34, Nikhil
+2501PH35, Kirti Chandra
+2501PH36, Banothu Somanna
+2501PH37, AVALA VENKATA HEMANTH
+2502CM01, Shivdas Aditi Nilesh
+2502CM03, Vivan
+2502CM06, Kotra Lohitha
+2502CM08, Matta Hemanthkumar
+2502CS02, Baibhaw Kumar
+2502CS05, Daksh Mittal
+2502CS07, Kondala Rushi Teja
+2502CS08, Mahak banyala
+2502GT01, Suchir Kumar Singh
+2502GT02, Deepayan pramanick
+2502GT04, SHATAKSHI SINGH
+2502GT05, TARUN PRATAP KUSHWAHA
+2502GT06, Ujesha Bhavsar
+2502GT08, ESLAVATH ANIL
+2502GT09, SAMRIDH CHAITANYA
+2502MC02, Molleti Mohana Rupa
+2502MC03, Ujjwal Gupta
+2502MC09, Maloth Lokesh
+2502MC10, Pragati Sharma
+2502MT01, Ishika Agarwal
+2502MT05, Chindam shravya patel
+2502MT07, Yadavendra Raj
+2502PC01, Harshil Tyagi
+2502PC04, Mary Irene
+2502PC07, MD MODASSIR IBRAHMI
+2502PC08, KRISH SINGH
+2502PC09, ABHINEET KUMAR
+2502ST03, SANDEEP RAJ
+2502ST04, Aman kumar
+2502ST05, Divyansh Dubey
+2502ST06, Sreeja Yarasi
+2502ST07, G Pavan Akhilesh
+2502ST09, Divya Kumari
+2502ST10, Vivek kumar
+2502VL02, Shaurya Sharma
+2502VL03, Bhuwan khokhar
+2502VL04, Elka Dharshil Nandan Reddy
+2502VL05, Gudala Varshith
+2502VL07, Janhavi Singh
+2502VL09, Tejaswini Kuracha
+2503AI03, Yash
+2503CB02, Amoolya Sharan
+2503CB03, Tejveer
+2503CB05, Dheeraj Kumar
+2503CE03, VEESAM SRIVASTAV
+2503CE05, Pritam Raj
+2503CE06, Shivam Gupta
+2503CS01, Sourav Bhakat
+2503CS03, Digvijay Suresh Zarekar
+2503CS04, Aniska Saha
+2503CS05, Venu Kumar
+2503EC01, Dhruvi Patel
+2503EC02, Thanda Sahruday
+2503EE04, Granth Mewara
+2503ES01, Maharnab Samadder
+2503ES02, Bothin Verma Vallabhaneni
+2503ES03, Abhijeet Singh
+2503ES04, Chodisetty Likitha Vaibhava Aasritha
+2503MC01, Chinmayee Santosh Patil
+2503MC03, Ritesh Thakur
+2503ME01, Tarush Mohan
+2503ME04, Shantanu Abhay Patil
+2503ME05, Vaarunya Tomer
+2503ME06, Yarramsetti Charan Teja
+2503ME11, D RUSHI KESAV
+2503ME12, BAVISKAR VRUSHIKESH MAHESH
+2503ME13, Srishti Khargonkar
+2503MM03, Riya kedia
+2503PH04, Poodari Shivani

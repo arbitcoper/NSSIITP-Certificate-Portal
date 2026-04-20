@@ -156,13 +156,13 @@ export default function CertificateCanvas({ student, onBack }) {
       {status === "loading" && (
         <div className="cert-loading">
           <span className="spinner spinner-lg" aria-hidden="true" />
-          <p>Generating your certificate…</p>
+          <p>Fetching your certificate...</p>
         </div>
       )}
 
       {/* error */}
       {status === "error" && (
-        <div className="error-card" role="alert" style={{ maxWidth: 560 }}>
+        <div className="error-card">
           <span className="error-icon" aria-hidden="true">⚠️</span>
           <h2>Certificate Error</h2>
           <p>{errMsg}</p>
