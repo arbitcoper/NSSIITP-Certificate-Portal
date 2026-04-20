@@ -12,7 +12,7 @@ const CERT_CONFIG = {
   // name position
   name: {
     x: 0.521,        // exact centre of the underline measured via script
-    y: 0.349,        // vertical centre of the underline (calibrated from live test)
+    y: 0.347,        // vertical centre of the underline (calibrated from live test)
     align: "center",
     baseline: "middle",
   },
